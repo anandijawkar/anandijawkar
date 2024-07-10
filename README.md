@@ -1,6 +1,6 @@
 👋 Hi, I'm Anandi! I build tech to address fundamental problems, aiming to make a significant impact on both local and global communities
 
-🎓 Pursuing a Computer Science & Business Administration (Double Degree) at University of Waterloo and Wilfrid Laurier University 
+🎓 Pursuing Double Degrees in Computer Science & Business Administration at University of Waterloo and Wilfrid Laurier University 
 
 📚 Previously, I've worked in startups and organzations to bring accessible and meaningful tech to thousands of individuals globally
 
