@@ -1,8 +1,8 @@
 👋 Hi, I'm Anandi! I build tech to address fundamental problems, aiming to make a significant impact on both local and global communities
 
-🎓 Pursuing a Computer Science & Business Administration (Double Degree) at University of Waterloo and Wilfrid Laurier University. Previously, I've worked in startups and organzations to bring accessible and meaningful tech to thousands of individuals globally
+🎓 Pursuing a Computer Science & Business Administration (Double Degree) at University of Waterloo and Wilfrid Laurier University 
 
-📚 Incoming Data Engineer, with previous experience in Software Development and Product Management
+📚 Previously, I've worked in startups and organzations to bring accessible and meaningful tech to thousands of individuals globally
 
 🎨 Also passionate about anything music, reading, biking, running, weightlifting, mental health, travelling, and reversing the stigma around women in computing
 
