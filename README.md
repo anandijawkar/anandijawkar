@@ -4,7 +4,7 @@
 
 📚 Experience in software development in various startups and organzations to bring accessible and meaningful tech to thousands of individuals globally
 
-🔭 I’m currently working on
+🔭 I’m currently working on:
 
 • My Personal Portfolio
 
