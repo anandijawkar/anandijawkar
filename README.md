@@ -7,6 +7,7 @@
 🔭 I’m currently working on
 
 • My Personal Portfolio
+
 • Server-Sided/Back-end projects
 
 🎨 Also passionate about anything music, reading, biking, running, weightlifting, mental health, travelling, and reversing the stigma around women in computing
