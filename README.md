@@ -6,11 +6,11 @@
 
 🔭 I’m currently working on:
 
+• An ML web app where users can upload images that contains real world objects or text, and get the labels for all the detected objects and texts in the image
+
 • My Personal Portfolio
 
 • Server-Sided/Back-end projects
-
-• An ML web app where users can upload images that contains real world objects or text, and get the labels for all the detected objects and texts in the image
 
 🎨 Also passionate about anything music, reading, biking, running, weightlifting, mental health, travelling, and reversing the stigma around women in computing
 
