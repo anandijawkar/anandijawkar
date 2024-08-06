@@ -2,7 +2,7 @@
 
 🎓 Pursuing Double Degrees in Computer Science & Business Administration at University of Waterloo and Wilfrid Laurier University 
 
-📚 Experience in software development in various startups and organzations to bring accessible and meaningful tech to thousands of individuals globally
+📚 Experience in software development in various startups and organizations to bring accessible and meaningful tech to thousands of individuals globally
 
 🔭 I’m currently working on:
 
