@@ -6,8 +6,11 @@ I build tech to address fundamental problems, aiming to make a significant impac
 📚 Experience in software development in various startups and organizations to bring accessible and meaningful tech to thousands of individuals globally
 
 ## 💡 Cool projects I've built
+
 • 📚 A url shortener that includes insights and checks for backlinks while including insights
+
 • 📈 A web app that predicts the stock price of S&P 500 companies, so you can invest wisely!
+
 • 📚 A COBWEB framework that highlights the relationship between predator-prey in the wildlife   
 
 ## 🔭 I’m currently working on:
