@@ -1,4 +1,5 @@
-# Hi, I'm Anandi! I build tech to address fundamental problems, aiming to make a significant impact on both local and global communities
+# Hello, World 👋 I'm Anandi!
+I build tech to address fundamental problems, aiming to make a significant impact on both local and global communities
 
 🎓 Pursuing Double Degrees in Computer Science & Business Administration at University of Waterloo and Wilfrid Laurier University 
 
