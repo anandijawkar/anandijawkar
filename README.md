@@ -5,7 +5,7 @@ I build tech to address fundamental problems, aiming to make a significant impac
 
 📚 Experience in software development in various startups and organizations to bring accessible and meaningful tech to thousands of individuals globally
 
-🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 
 • An ML web app where users can upload images that contains real world objects or text, and get the labels for all the detected objects and texts in the image
 
@@ -17,9 +17,9 @@ I build tech to address fundamental problems, aiming to make a significant impac
 
 ## 📫 Get In Touch
 
-If you're ever interested in chatting or collaborating feel free to reach out to me on LinkedIn!
+If you're ever interested in chatting or collaborating feel free to reach out to me on LinkedIn or by email!
 
 - 🔗 LinkedIn: [linkedin.com/in/anandijawkar/](https://www.linkedin.com/in/anandijawkar/)
-📲 ajawkar@uwaterloo.ca
+- 📲 ajawkar@uwaterloo.ca
 
 
