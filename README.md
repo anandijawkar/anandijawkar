@@ -15,6 +15,11 @@ I build tech to address fundamental problems, aiming to make a significant impac
 
 🎨 Also passionate about anything music, reading, biking, running, weightlifting, mental health, travelling, and reversing the stigma around women in computing
 
+## 📫 Get In Touch
+
+If you're ever interested in chatting or collaborating feel free to reach out to me on LinkedIn!
+
+- 🔗 LinkedIn: [linkedin.com/in/anandijawkar/](https://www.linkedin.com/in/anandijawkar/)
 📲 ajawkar@uwaterloo.ca
 
-If you're ever interested in chatting, feel free to reach out to me on LinkedIn!
+
