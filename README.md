@@ -13,6 +13,8 @@ I build tech to address fundamental problems, aiming to make a significant impac
 
 • 📚 A COBWEB framework that highlights the relationship between predator-prey in the wildlife   
 
+• 🎮 An unbeatable AI Tic Tac Toe game where the best you could do is tie it!
+
 ## 🔭 I’m currently working on:
 
 • An ML web app where users can upload images that contains real world objects or text, and get the labels for all the detected objects and texts in the image
