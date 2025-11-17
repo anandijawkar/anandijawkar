@@ -7,6 +7,8 @@ I build tech to address fundamental problems, aiming to make a significant impac
 
 ## 💡 Cool projects I've built
 
+• 📚 An AI Communication Coach, that handles meeting biases and aids in effective communication
+
 • 📚 A URL shortener that includes insights and checks for backlinks
 
 • 📈 A web app that predicts the stock price of S&P 500 companies, so you can invest wisely!
